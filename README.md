@@ -33,11 +33,11 @@ To run the Omnifood website locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nistorrazvaniulian/omnifood.git
+   git clone https://github.com/nistorrazvaniulian/Omnifood-Project.git
 
 2. Open the project directory:
    ```bash
-   cd omnifood
+   cd Omnifood-Project
 
 ## Contributing
 Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue or create a pull request.
